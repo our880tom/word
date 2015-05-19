@@ -10,4 +10,4 @@ word.ipr
 word.iws
 .gradle/
 build/
-src/main/resources
+src/main/resources/
